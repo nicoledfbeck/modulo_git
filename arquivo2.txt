@@ -1,1 +1,1 @@
-ECHO est  ativado.
+"ol , tudo bem" 
